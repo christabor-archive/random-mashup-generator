@@ -3,6 +3,7 @@
 * (c) 2013 Chris Tabor <dxdstudio@gmail.com>
 * Apache 2.0 Licensed.
 * <3
+* http://dxdstudio.com/labs/random-mashup-generator
 * http://github.com/christabor/random-mashup-generator
 */
 var mashupGenerator = function(){
